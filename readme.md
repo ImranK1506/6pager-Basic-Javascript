@@ -9,5 +9,10 @@ Here I have made some JS apps for practice purposes.
 * LightBox (under construction)
 * User Detect
 
+<h2>Languages</h2>
+* HTML
+* CSS
+* JavaScript
+
 <h2>Author</h2>
 Imran Khan
