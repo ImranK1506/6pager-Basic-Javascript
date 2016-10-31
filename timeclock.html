@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Timeclock</title>
+
+<style>
+	body	{
+		width: 100%;
+		margin:1% auto;
+		text-align: center;
+	}
+	ul li {
+		display: inline;
+		border: 5px solid black;
+		border-radius: 10px;
+		font-size: 50px;
+	}
+	hr{
+		border: 5px groove silver;
+	}
+	#time{
+		background-color: black;
+		font-style: italic;
+		color: white;
+		font-family: monaco;
+		font-size: 50px;
+		border-radius: 20px;
+	}
+	#greeting	{ 
+		font-size: 50px;
+	}
+	.space	{
+		margin-top: 100px;
+	}
+	a{
+		text-decoration: none;
+	}
+	a:hover {
+		color: silver;
+	}
+</style>
+
+</head>
+
+<body onload="startTime()">
+
+	<hr></hr>
+	<ul>
+		<li><a href="index.html">Back Home</a></li>
+		<li>Social Media</li>
+		<li>Timeclock</li>
+		<li>Form</li>
+		<li>LightBox</li>
+		<li><a href="userd.html">User Detect</a></li>
+	</ul>
+	<hr></hr>
+
+<div class="space">
+
+<p><span id="greeting"></span></p>
+
+<span id="time"></span>
+  
+
+</div>
+
+<script src="js/timeclock.js"></script>	
+
+</body>
+</html>
