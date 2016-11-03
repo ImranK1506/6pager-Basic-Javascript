@@ -13,7 +13,6 @@ Here I have made some JS apps for practice purposes.
 * HTML
 * CSS
 * JavaScript
-* test
 
 <h2>Author</h2>
 Imran Khan
