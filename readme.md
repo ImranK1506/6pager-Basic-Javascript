@@ -16,7 +16,7 @@ Here I have made some JS apps for practice purposes.
 
 <h2>View</h2>
 
-<a href="6pager-basic-javascript.bitballoon.com">Basic JavaScript</a>
+<a href="http://6pager-basic-javascript.bitballoon.com/">Basic JavaScript</a>
 
 <h2>Author</h2>
 Imran Khan
